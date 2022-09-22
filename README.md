@@ -1,5 +1,5 @@
 - Hi, I’m @Arda Güler
--I'm currently a freshman bilkent cs student
+-I'm currently a first grader at bilkent cs
 
 <!---
 Arda-stray/Arda-stray is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
